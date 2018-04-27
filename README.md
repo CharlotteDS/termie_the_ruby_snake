@@ -1,0 +1,1 @@
+"A classic snake game that runs on terminal using ruby programming language."
